@@ -1,6 +1,6 @@
 # Pig Game
 
-Pig is a dice game where a player repeatedly rolls a dice until either a 1 is rolled or the player decides to "hold". This application has been built with JavaScript. 
+Pig is a dice game where a player repeatedly rolls a dice until either a 1 is rolled or the player decides to "hold". This application has been built with HTML, CSS, and JavaScript. 
 
 ## GAME RULES:
 
